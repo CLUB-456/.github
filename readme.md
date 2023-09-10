@@ -35,8 +35,8 @@ We encourage our members to actively participate in tech projects. Check out our
 
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us:
 
-- Email: contact@club456.org
-- Twitter: [@Club456Tech](https://twitter.com/Club456Tech)
-- Facebook: [Club.456](https://www.facebook.com/Club456Tech)
+- Email: official.club456@gmail.com
+- Twitter: [@Club456Tech]()
+- Facebook: [Club.456]()
 
 We look forward to having you as a part of Club.456, where we believe that learning, sharing, and innovation in technology are for everyone.
