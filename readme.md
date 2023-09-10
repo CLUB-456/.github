@@ -16,6 +16,8 @@ Club.456 is a community of tech enthusiasts, learners, and future innovators. Ou
 
 ## Get Involved
 
+[![Club.456 Event](https://www.example.com/thumbnail.jpg)](https://www.youtube.com/watch?v=your-video-id)
+
 ### Joining Club.456
 
 Joining our organization is easy and open to everyone. To become a member:
