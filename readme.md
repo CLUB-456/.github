@@ -1,6 +1,6 @@
-![Club.456 Logo](https://media.licdn.com/dms/image/D560BAQGEsYHvkXZtyw/company-logo_100_100/0/1692280374632?e=1702512000&v=beta&t=MJV2FXQXTynvUmm0vcxL7gyx703Rhj_1DR6KmzISYz8)
 
-# Club.456 
+# Club.456 ![Club.456 Logo](https://media.licdn.com/dms/image/D560BAQGEsYHvkXZtyw/company-logo_100_100/0/1692280374632?e=1702512000&v=beta&t=MJV2FXQXTynvUmm0vcxL7gyx703Rhj_1DR6KmzISYz8)
+
 
 Welcome to Club.456, the student-led organization dedicated to fostering learning, collaboration, and innovation in the field of technology. Whether you're a student or simply passionate about tech, you've come to the right place. This README file provides an overview of our organization and how you can get involved.
 
