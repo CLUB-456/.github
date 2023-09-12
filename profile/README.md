@@ -1,13 +1,13 @@
 
-# Club.456 
+# CLUB.456 
 
 ![Club.456 Logo](https://media.licdn.com/dms/image/D560BAQGEsYHvkXZtyw/company-logo_100_100/0/1692280374632?e=1702512000&v=beta&t=MJV2FXQXTynvUmm0vcxL7gyx703Rhj_1DR6KmzISYz8)
 
-Welcome to Club.456, the student-led organization dedicated to fostering learning, collaboration, and innovation in the field of technology. Whether you're a student or simply passionate about tech, you've come to the right place. This README file provides an overview of our organization and how you can get involved.
+Welcome to CLUB.456, the student-led organization dedicated to fostering learning, collaboration, and innovation in the field of technology. Whether you're a student or simply passionate about tech, you've come to the right place. This README file provides an overview of our organization and how you can get involved.
 
-## About Club.456
+## About CLUB.456
 
-Club.456 is a community of tech enthusiasts, learners, and future innovators. Our primary goals include:
+CLUB.456 is a community of tech enthusiasts, learners, and future innovators. Our primary goals include:
 
 - Hosting tech-related events, workshops, and seminars.
 - Collaborating on exciting tech projects and initiatives.
@@ -18,7 +18,7 @@ Club.456 is a community of tech enthusiasts, learners, and future innovators. Ou
 
 [![Club.456 Event](https://www.example.com/thumbnail.jpg)](https://www.youtube.com/watch?v=your-video-id)
 
-### Joining Club.456
+### Joining CLUB.456
 
 Joining our organization is easy and open to everyone. To become a member:
 
@@ -40,7 +40,7 @@ We encourage our members to actively participate in tech projects. Check out our
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us:
 
 - Email: official.club456@gmail.com
-- Twitter: [@Club456Tech]()
-- Facebook: [Club.456]()
+- Twitter: [@CLUB456]()
+- Facebook: [CLUB.456]()
 
-We look forward to having you as a part of Club.456, where we believe that learning, sharing, and innovation in technology are for everyone.
+We look forward to having you as a part of CLUB.456, where we believe that learning, sharing, and innovation in technology are for everyone.
