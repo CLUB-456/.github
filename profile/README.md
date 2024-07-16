@@ -16,7 +16,7 @@ CLUB.456 is a community of tech enthusiasts, learners, and future innovators. Ou
 
 ### Upcoming Events
 
-Stay up-to-date with our upcoming events by visiting our [LinkedIn page](https://www.club456.org/events](https://www.linkedin.com/company/club-456/)). We regularly host workshops, hackathons, and tech talks on a wide range of topics. Join us to learn, network, and collaborate with like-minded individuals.
+Stay up-to-date with our upcoming events by visiting our [LinkedIn page](https://www.linkedin.com/company/club-456). We regularly host workshops, hackathons, and tech talks on a wide range of topics. Join us to learn, network, and collaborate with like-minded individuals.
 
 ### Tech Projects
 
